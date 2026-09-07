@@ -10,3 +10,4 @@ credentials/
 node_modules/
 .wrangler/
 public-dist/
+.public-dist.generated
